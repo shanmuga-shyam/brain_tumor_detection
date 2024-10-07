@@ -1,11 +1,19 @@
 <h1>Screenshots</h1>
 <ul>
   <li>
-    <p>giloma</p>
-    <img src="output/out1.png">
+    <p>meningioma tumor</p>
+    <img src="readme/Screenshot 2024-09-17 220453.png">
   </li>
   <li>
-    <p>pitutary</p>
-    <img src="output/out2.png">
+    <p>pituitary tumor</p>
+    <img src="readme/Screenshot 2024-09-19 161519.png">
+  </li>
+  <li>
+    <p>glioma tumor</p>
+    <img src="redme/Screenshot 2024-09-19 161350.png">
+  </li>
+  <li>
+    <p>no tumor</p>
+    <img src="readme/Screenshot 2024-09-19 161445.png">
   </li>
 </ul>
