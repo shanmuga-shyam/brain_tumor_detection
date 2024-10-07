@@ -10,7 +10,7 @@
   </li>
   <li>
     <p>glioma tumor</p>
-    <img src="redme/Screenshot 2024-09-19 161350.png">
+    <img src="readme/Screenshot 2024-09-19 161350.png">
   </li>
   <li>
     <p>no tumor</p>
